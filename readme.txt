@@ -161,7 +161,6 @@ You can [help translate this plugin into your language](https://translate.wordpr
 
 #### Development
 
-This plugin is being developed on GitHub. If you want to collaborate, please look at [ibericode/mailchimp-for-wordpress](https://github.com/ibericode/mailchimp-for-wordpress).
 
 #### Customizing the plugin
 
@@ -213,11 +212,9 @@ _Release date: Jun 1, 2026_
 
 _Release date: May 26, 2026_
 
-- Fix integrations losing runtime options like double opt-in when sign-up attempts are processed asynchronously. Thanks [Jon Parker](https://github.com/jnpkr)!
 - Fix Site Tracking Pixel setting not being saved when disabling it.
 - Improve accessibility of generated form fields by wrapping inputs in labels and using fieldsets for checkbox and radio fields.
 - Improve validation and sanitization of submitted form data.
-- Improve debug log safety by truncating overly long messages and improving email address obfuscation. Thanks [Jack Feldcher](https://github.com/jjf404)!
 
 
 = 4.12.5 =

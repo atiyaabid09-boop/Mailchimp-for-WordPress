@@ -167,7 +167,6 @@ This plugin is being developed on GitHub. If you want to collaborate, please loo
 
 #### Customizing the plugin
 
-The plugin provides various filter and action hooks that allow you to modify or extend the default behavior. We're also maintaining a [collection of sample code snippets](https://github.com/ibericode/mailchimp-for-wordpress/tree/main/sample-code-snippets).
 
 == Screenshots ==
 
@@ -239,5 +238,3 @@ _Release date: May 5, 2026_
 - Ensure mc4wp_refresh_mailchimp_lists is scheduled in site's local timezone.
 - Added missing translator comments to all translatable strings.
 - General code hardening and minor improvements as reported by the Plugin Check tool.
-
-[View the full changelog on GitHub](https://github.com/ibericode/mailchimp-for-wordpress/blob/main/CHANGELOG.md)

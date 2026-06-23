@@ -1,6 +1,5 @@
 === MC4WP: Mailchimp for WordPress ===
 Contributors: Ibericode, DvanKooten, hchouhan, lapzor
-Donate link: https://www.mc4wp.com/contribute/#utm_source=wp-plugin-repo&utm_medium=mailchimp-for-wp&utm_campaign=donate-link
 Tags: mailchimp, subscribe, email, newsletter, form
 Requires at least: 5.3
 Tested up to: 7.0
@@ -16,8 +15,6 @@ The #1 Mailchimp plugin for WordPress. Allows you to add a multitude of newslett
 *Allowing your visitors to subscribe to your newsletter should be easy. With this plugin, it finally is.*
 
 This plugins helps you grow your email list in Mailchimp. You can use it to create good looking and accessible sign-up forms or integrate with any other existing form on your WordPress site, like your contact, comment or checkout form.
-
-[youtube https://www.youtube.com/watch?v=fZCYPnFybqU]
 
 #### Some (but not all) features
 
@@ -45,11 +42,6 @@ This plugins helps you grow your email list in Mailchimp. You can use it to crea
 - Is the plugin you want to integrate with not listed above? You can probably still use our [custom integration](https://www.mc4wp.com/kb/subscribe-mailchimp-custom-html-form/) feature. Alternatively, the plugin comes with a PHP API to programmatically add a new subscriber to Mailchimp.
 
 - [Mailchimp for WordPress Premium](https://www.mc4wp.com/): Send your WooCommerce orders to Mailchimp so you can see exactly what each subscriber purchased and how much revenue your email campaigns are generating.
-
-- A multitude of available add-on plugins and integrations:
-  - [Mailchimp for WordPress Premium](https://www.mc4wp.com/)
-  - [Mailchimp Top Bar](https://wordpress.org/plugins/mailchimp-top-bar/)
-  - [Boxzilla Pop-ups](https://wordpress.org/plugins/boxzilla/)
 
 - Well documented through our [knowledge base](https://www.mc4wp.com/kb/).
 
@@ -80,15 +72,12 @@ If you are not yet using Mailchimp, [creating an account is 100% free and only t
 6. Show a sign-up form from your theme files by using the `mc4wp_show_form()` PHP function.
 
 #### Need help?
-Please take a look at the [MC4WP knowledge base](https://www.mc4wp.com/kb/#utm_source=wp-plugin-repo&utm_medium=mailchimp-for-wp&utm_campaign=installation-instructions-link) first.
 
 If you can't find an answer there, please look through the [plugin support forums](https://wordpress.org/support/plugin/mailchimp-for-wp) or start your own topic.
 
 == Frequently Asked Questions ==
 
 = Where can I find my Mailchimp API key? =
-
-You can [find your Mailchimp API key here](http://kb.mailchimp.com/accounts/management/about-api-keys#Find-or-Generate-Your-API-Key)
 
 = How to display a form in posts or pages? =
 
@@ -112,7 +101,6 @@ Our knowledge base has more information on [connecting Contact Form 7 and Mailch
 
 If the form shows a success message, there is no doubt that the sign-up request succeeded. Mailchimp could have a slight delay sending the confirmation email though. Please check again in a few minutes (sometimes hours) and don't forget to check your junk folder too.
 
-When you have double opt-in disabled, new subscribers will be seen as *imports* by Mailchimp. They will not show up in your daily digest emails or statistics. [We always recommend leaving double opt-in enabled](http://blog.mailchimp.com/double-opt-in-vs-single-opt-in-stats/).
 
 = How can I style the sign-up form? =
 
@@ -150,16 +138,13 @@ the "HTTP Error" type is usually because of a firewall configuration issue or ou
 
 Please contact your webhost and ask them to check the following:
 
-- Whether remote HTTP requests to `https://api.mailchimp.com` are allowed.
+
 - Whether cURL and the PHP-cURL extension are installed and updated to a recent version.
 
 = Where do I report security bugs found in this plugin? =
-
-Please report security bugs found in the source code of the Mailchimp for WordPress plugin through the [Patchstack Vulnerability Disclosure Program](https://patchstack.com/database/vdp/8c215d34-dc57-4167-8af8-a9863cb63668). The Patchstack team will assist you with verification, CVE assignment, and notify the developers of this plugin.
+.
 
 = My question is not listed here. =
-
-Please search through our [knowledge base](https://www.mc4wp.com/kb/#utm_source=wp-plugin-repo&utm_medium=mailchimp-for-wp&utm_campaign=faq).
 
 
 == Other Notes ==

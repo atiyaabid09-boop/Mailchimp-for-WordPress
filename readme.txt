@@ -44,7 +44,6 @@ This plugins helps you grow your email list in Mailchimp. You can use it to crea
 
 - Well documented through our [knowledge base](https://www.mc4wp.com/kb/).
 
-- Developer friendly. For some inspiration, check out our [repository of example code snippets](https://github.com/ibericode/mailchimp-for-wordpress/tree/main/sample-code-snippets).
 
 - Ready for PHP 8.5, but backwards-compatible all the way down to PHP 7.4.
 
